@@ -7,7 +7,7 @@ a:hover{color:#f66}
 header{position:relative;width:100%;display:none;margin:0 auto;}
 header a.close{position:absolute;right:10px;bottom:10px;display:block;margin:0 auto;width:26px;height:26px;border-radius:50%;background:#EFEFF4 url(../image/del.png) no-repeat center center;background-size:13px;transition: All 0.4s ease-in-out;-webkit-transition: All 0.4s ease-in-out;-moz-transition: All 0.4s ease-in-out;-o-transition: All 0.4s ease-in-out;border:2px solid #fff;z-index:5;}
 header a.close:hover{transform: rotate(360deg);-webkit-transform: rotate(360deg);-moz-transform: rotate(360deg);-o-transform: rotate(360deg);-ms-transform: rotate(360deg);}
-/* 老杨网络 QQ 50899753 */
+/* 云成网络 QQ 4534079 */
 .tips{margin:0 auto;width:100%;height:5pc}
 .tips,.tips .box{position:relative;display:block;padding:0}
 .tips .box{overflow:hidden;margin:20px auto 0;width:94%;border:1px solid #fff;border-radius:26px;background:#fb3;box-shadow:0 0 10px 0 rgba(0,0,0,.15)}
@@ -43,7 +43,7 @@ header a.close:hover{transform: rotate(360deg);-webkit-transform: rotate(360deg)
 .notfoud div.tisp p{display:block;width:100%;color:#666;text-align:center;font-size:.9em}
 .notfoud div.tisp p.t{padding-bottom:5px;color:#333;font-size:1.1em}
 .notfoud div.tisp p b{color:#f30}
-/* 老杨网络 QQ 507899753 */
+/* 云成网络 QQ 4534079 */
 .notfoud div.downtis{text-align:center;font-size:.8em;color:#F66}
 .notfoud div.tisp p.t2{border-top:1px dashed #eee;padding-top:10px;}
 .notfoud div.btn{display:block;margin:10px auto 20px;padding:8px 10px;width:100%;text-align:center}
@@ -87,4 +87,4 @@ body.w768{max-width:8in}
 .qqkf a.mob{display:block;}
 .qqkf a.pc{display: none;}
 .qqkf span{font-size:12px;color:#333}
-/* 老杨网络 QQ 507899753 */
+/* 云成网络 QQ 4534079 */
